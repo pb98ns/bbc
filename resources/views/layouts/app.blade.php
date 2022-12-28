@@ -41,7 +41,7 @@
             
                 <a class="navbar-brand mx-auto" href="{{ url('/home') }}" >
               
-                    <img class="img-fluid mx-auto d-block" src="/bbc.png" alt="" width="55" height="25"  >  
+                    <img class="img-fluid mx-auto d-block" src="bbc.png" alt="" width="55" height="25"  >  
                 
                    
                 </a>
