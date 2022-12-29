@@ -19,7 +19,7 @@ class UserSeeder extends Seeder
                 'surname' => 'Bochenek',
                 'phone1' => '881585163',
                 'phone2' => '881585163',
-                'email' => 'przemyslawbochenek382@gmail.com',
+                'email' => 'przemyslaw.bochenek@biurobbc.pl',
                 'password' => bcrypt('qazzaq123321'),
                 'permissions' => 'Administrator',
                 
